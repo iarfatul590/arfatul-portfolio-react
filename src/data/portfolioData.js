@@ -372,7 +372,7 @@ export const portfolioData = {
       department: "University School of Business / Department of Management",
       location: "Mohali, Punjab, India",
       relationship: "Academic Supervisor & Department Head during BBA (Finance)",
-      email: "satinder.e10170@cumail.in",
+      email: "hod.bba@cumail.in",
       phone: "+91 94172 17088",
       note: "Available for verification of academic standing, research initiatives, and collegiate leadership."
     },
@@ -383,7 +383,7 @@ export const portfolioData = {
       alliance: "Alliance with Noman Group",
       location: "Mawna, Gazipur, Dhaka, Bangladesh",
       relationship: "Direct Departmental Head & Reporting Manager",
-      email: "kamrul.hasan@znzaccessories.com",
+      email: "kamrul@znzal.com",
       phone: "+880 1713 000000 (Available upon direct request)",
       note: "Available for professional verification of ERP implementation, auditing diligence, and operational performance."
     }
